@@ -29,8 +29,6 @@ func main() {
 		"multiplica2: ",multiplica(3, 3, 20),
 	)
 
-    fmt.Println("sqrt: ",Sqrt(2))
-
 
 }
 
@@ -50,6 +48,3 @@ func multiplica(x, n, lim float64) float64 {
 	return lim
 }
 
-
-func Sqrt(x float64) float64 {
-}
